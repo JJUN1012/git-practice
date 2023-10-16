@@ -155,3 +155,36 @@
   155  nano .gitignore
   156  git status
   157  history >> history_command.txt
+  158  git status
+  159  git add .
+  160  git remote -v
+  161  git push -u origin main
+  162  git status
+  163  git pull origin main
+  164  git status
+  165  git pusth -u origin main
+  166  git push -u origin main
+  167  git pull origin HEAD
+  168  git pull origin main
+  169  git push -u origin main
+  170  git pull origin master
+  171  git pull origin main
+  172  git init
+  173  git commit -m "first commit"
+  174  git init
+  175  git status
+  176  git add .
+  177  nano .gitignore
+  178  nano .gitignore
+  179  git branch -M main
+  180  git commit -m "first commit
+"
+  181  git remote add https://github.com/JJUN1012/git-practice.git
+  182  git remote add origin https://github.com/JJUN1012/git-practice.git
+  183  git status
+  184  git add .
+  185  git status
+  186  git rm history_command.txt
+  187  git status
+  188  nano .gitignore
+  189  history >> histoy_commands.txt
