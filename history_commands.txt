@@ -188,3 +188,211 @@
   187  git status
   188  nano .gitignore
   189  history >> histoy_commands.txt
+    1  git init
+    2  git status
+    3  ls
+    4  cd Document
+    5  cd /Document
+    6  cd Documents/
+    7  cd OSS
+    8  ls
+    9  git status
+   10  git init
+   11  git status
+   12  nano .gitignore
+   13  gedit .gitignore
+   14  cd LAB7/
+   15  git init
+   16  nano words.txt
+   17  git status
+   18  git add .
+   19  git status
+   20  history 
+   21  ls 
+   22  ls -lha
+   23  ls -lsha
+   24  ls lha
+   25  ls -lha
+   26  ls history
+   27  history 
+   28  history >> bash_history2
+   29  history >> .bash_history2
+   30  history >> .bash_history2.txt
+   31   git history bash_history1.txt
+   32  git status
+   33  git add words.txt 
+   34  git status
+   35  git rm .bash_history
+   36  nano
+   37  nano words.txt 
+   38  git status
+   39  git remove .bash_history
+   40  git --help
+   41  git rm .bash_history
+   42  git status
+   43  git add .
+   44  gid status
+   45  git status
+   46  git reset HEAD words.txt
+   47  git status
+   48  git restore --staged words.txt
+   49  git status
+   50  git mv words.txt  new_words.txt
+   51  git status
+   52  git log
+   53  git commit
+   54  git mv new_words.txt words.txt
+   55  nano words.txt 
+   56  git commit
+   57  cd Documents/OSS/LAB7/
+   58  git status
+   59  git add .
+   60  words.txt
+   61  sh words.txt
+   62  txt words.txt
+   63  git mv words.txt new_words.txt
+   64  nano new_words.txt
+   65  git commit
+   66  git status
+   67  clear
+   68  git status
+   69  git status
+   70  git remote add origin https://github.com/JJUN1012/git-practice.git
+   71  git push -u origin main
+   72  git branch -M main
+   73  git status
+   74  git commit
+   75  git remote add origin https://github.com/JJUN1012/git-practice.git
+   76  git branch -M main
+   77  git push -u origin main
+   78  git status
+   79  git remote -v
+   80  git push -u origin main
+   81  git init
+   82  git commit -m first commit
+   83  git commit -m "first commit"
+   84  git branch -M main
+   85  git remote -v
+   86  git push -u origin main
+   87  git remote add origin git@github.com:JJUN1012/git-practice.git
+   88  git remote update origin git remote add origin git@github.com:JJUN1012/git-practice.git
+   89  git remote add origin 
+   90  git remote add origin git@github.com:JJUN1012/git-practice.git
+   91  git remote remove
+   92  git remote remove origin 
+   93  git remote add origin git@github.com:JJUN1012/git-practice.git
+   94  git remote -v
+   95  git push -u origin main
+   96  git push -u origin main
+   97  git init
+   98  git status
+   99  ls
+  100  git add .
+  101  git status
+  102  git add main .
+  103  git add . main
+  104  git add .
+  105  git status
+  106  nano second words.txt
+  107  git mv second secondWords.txt
+  108  ls
+  109  git mv second secondWords.txt
+  110  git status
+  111  git add .
+  112  git status
+  113  git add README.md
+  114  git commit -m "second commit"
+  115  git branch -M main
+  116  git remote add origin git remote add origin git@github.com:JJUN1012/git-practice.git
+  117  git remote add origin git remote add origin git@github.com:JJUN1012/git-practice.git
+  118  git remote add origin git@github.com:JJUN1012/git-practice.git
+  119  git remote -v
+  120  git push -u origin main
+  121  git remote remove
+  122  git remote remove origin
+  123  git remote list
+  124  git remote show
+  125  git remote add origin https://github.com/JJUN1012/git-practice.git
+  126  git remote -v
+  127  git push -u origin main
+  128  git status
+  129  git remote show
+  130  nano .gitignore
+  131  history >> history_command.txt
+  132  git status
+  133  git add .
+  134  git status
+  135  git -m commit "ignore file"
+  136  git commit -m "ignore file"
+  137  git push origin -u main
+  138  git push origin main
+  139  git push -u origin main
+  140  git push -u main
+  141  git push -u origin/main main
+  142  git push -u origin/main
+  143  git push -u 
+  144  git push 
+  145  git status 
+  146  git status
+  147  git add .
+  148  git ls
+  149  ls
+  150  git add .gitignore
+  151  git status
+  152  nano .gitignore 
+  153  git commit -m "new commit"
+  154  git status
+  155  nano .gitignore
+  156  git status
+  157  history >> history_command.txt
+  158  git status
+  159  git add .
+  160  git remote -v
+  161  git push -u origin main
+  162  git status
+  163  git pull origin main
+  164  git status
+  165  git pusth -u origin main
+  166  git push -u origin main
+  167  git pull origin HEAD
+  168  git pull origin main
+  169  git push -u origin main
+  170  git pull origin master
+  171  git pull origin main
+  172  git init
+  173  git commit -m "first commit"
+  174  git init
+  175  git status
+  176  git add .
+  177  nano .gitignore
+  178  nano .gitignore
+  179  git branch -M main
+  180  git commit -m "first commit
+"
+  181  git remote add https://github.com/JJUN1012/git-practice.git
+  182  git remote add origin https://github.com/JJUN1012/git-practice.git
+  183  git status
+  184  git add .
+  185  git status
+  186  git rm history_command.txt
+  187  git status
+  188  nano .gitignore
+  189  history >> histoy_commands.txt
+  190  git status
+  191  git add .
+  192  git status
+  193  git mv histoy_commands.txt history_commands.txt
+  194  nano .gitignore 
+  195  git add .
+  196  git status
+  197  git commit -M main
+  198  git commit -m "check ignore"
+  199  git status
+  200  git remote -v
+  201  git push -u origin mai
+  202  git push -u origin main
+  203  git rm -r --cached
+  204  git add .
+  205  git status
+  206  git status
+  207  history >> history_commands.txt
